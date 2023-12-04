@@ -11,6 +11,10 @@
 #                                                                              #
 # **************************************************************************** #
 ```
+## 1.1.0
+
+- Addition of the purchase server folder with scripts
+
 ## 1.0.0
 
 - Initial commit, first version.
